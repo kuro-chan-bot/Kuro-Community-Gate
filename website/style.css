@@ -1,0 +1,69 @@
+body {
+	margin: 0;
+	background-color: burlywood;
+}
+
+h1 {
+	padding-left: 32px;
+}
+
+h3 {
+	font-family: cursive;
+	font-size: 1.5em;
+}
+
+h2.content {
+	margin-left: 32px;
+	border-bottom: solid 2px green;
+
+}
+
+header {
+	background-color: #682d2d;
+	border-bottom: : solid 2px blue;
+}
+
+
+div#icon h1 {
+	color: white;
+	font-family: serif;
+	font-size: 3.5em;
+	margin: 0px;
+}
+
+div.content {
+	margin-left: 32px;
+}
+
+div.Description {
+	margin-left: 32px;
+	padding-left: 32px;
+}
+
+div#main {
+	padding-top: 96px;
+	margin-left: 64px;
+	margin-right: 64px;
+	background-color: white;
+}
+
+div#main h1 {
+	font-family: serif;
+	border-bottom: solid black 2px;
+}
+
+div#header label {
+	font-size: 2em;
+	color: white;
+	font-family: serif;
+	margin-left: 160px;
+}
+div#header {
+	margin-top: 32px;
+	padding-bottom: 16px;
+}
+
+img#KuroIcon {
+	border: solid 4px cyan;
+	border-radius:  4px;
+}
